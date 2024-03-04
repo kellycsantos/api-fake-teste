@@ -1,0 +1,38 @@
+{
+    "usuarios": [
+        {
+            "nome": "Kim Solar",
+            "id" : 1
+        },
+        {
+            "nome": "Moon Byul-yi",
+            "id" : 2
+        },
+        {
+            "nome": "Jung Wheein",
+            "id" : 3
+        },
+        {
+            "nome": "Ahn Hyejin",
+            "id" : 4
+        }
+    ],
+    "discos": [
+        {
+            "nome" : "WAW",
+            "ano": "2021"
+        },
+        {
+            "nome" : "MIC ON",
+            "ano": "2022"
+        },
+        {
+            "nome" : "Red Moon",
+            "ano": "2018"
+        },
+        {
+            "nome" : "Yellow Flower",
+            "ano": "2018"
+        }
+    ]
+}
